@@ -1,3 +1,6 @@
 <!--index.wxml-->
 <text class="title">Hello World!</text>
 <button class="btn">点击</button>
+
+<view>2.知识点2</view>
+<view>heheheheheh</view>
